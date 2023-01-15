@@ -45,10 +45,6 @@ Wu adopted similar concepts to ranking computer scientist or engineers by their 
 - Dropout
 - Batch normalization
 - Attention
-- Data Handling
-
-
-
 
 #### Architectures for solving the specific topics
 
@@ -80,16 +76,7 @@ Dataset that is small enough and already hosted on Kaggle, so that it is possibl
     - [Severstal: Steel Defect Detection](https://www.kaggle.com/competitions/severstal-steel-defect-detection/code)
         - 1.7GB data, a bit large
 
-### Project rubrics
 
-- Exploratory data analysis: what are the features of the dataset
-- Problem: what is the definition of the problem?
-- Your solution:
-- Why did you choose this approach?
-- Your implementation (code)
-- Discussions
-- How does your solution perform?
-    - How can you further improve the model?
 
 # Photogrammatry
 
