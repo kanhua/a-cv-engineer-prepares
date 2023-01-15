@@ -9,18 +9,18 @@ I don't really know what really makes a CV engineer with Tier higher than 3. I w
 This title was come from "[An Actor Prepares](https://en.wikipedia.org/wiki/An_Actor_Prepares)".
 Because of Steven Chu's movie "[King of Comedy](https://en.wikipedia.org/wiki/King_of_Comedy_(film)", this book title become well-known in Chinese culture zone.
 
-# Ranking computer scientists or engeineers
+# Ranking computer scientists or engineers
 
 "Landau genius scale" or "Landau's ranking" [[link](http://www.eoht.info/page/Landau%20genius%20scale)] is a ranking system of physicists maintained by Lev Landau.
 
-In "The Essence of computing" by Wu Jun (Chinese, currnetly there's no English version yet),
+In "The Essence of computing" by Wu Jun (Chinese, currently there's no English version yet),
 Wu adopted similar concepts to ranking computer scientist or engineers by their impacts.
 
 1. Tier 1: Being able to create a whole new industry or lay out a foundation of an scientific already. Wu ranked Donald E. Knuth as this tier.
 2. Tier 2: Being able to make significant contributions to the theories or realize the products that other engineers cannot
 3. Tier 3: Being able to an unsolved problems and make successful engineering products in the markets
 4. Tier 4: Being able to lead a team to solve engineering problem using state-of-the art solutions.
-5. Tier 5: Being able to solve an engineering problemm independently.
+5. Tier 5: Being able to solve an engineering problem independently.
 
 # Deep learning
 
@@ -37,7 +37,7 @@ Wu adopted similar concepts to ranking computer scientist or engineers by their 
 - Concepts neural networks
 - Fully-connected layers
 - Convolutional network
-- Backpropogation
+- Backpropagation
 - Optimizer
 
 #### More advanced concepts
@@ -49,7 +49,7 @@ Wu adopted similar concepts to ranking computer scientist or engineers by their 
 #### Architectures for solving the specific topics
 
 - Well-known architectures: such as VGG or ResNet
-- Image classfication
+- Image classification
 - Fine-tuning
 - Object detection
 - Image Segmentation
@@ -78,7 +78,11 @@ Dataset that is small enough and already hosted on Kaggle, so that it is possibl
 
 
 
-# Photogrammatry
+# Computer Vision
+
+- [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
+- [Computer Vision: Algorithms and Applications, 2nd ed.
+](https://szeliski.org/Book/)
 
 
 # Good Practices of Software Engineering

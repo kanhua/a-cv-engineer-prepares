@@ -1,14 +1,6 @@
-# Rubrics of a data science project
+# Rubrics of a data science/machine learning project
 
 ## Report
-
-- Exploratory data analysis: what are the features of the dataset
-- Your solution:
-- Why did you choose this approach?
-- Your implementation (code)
-- Discussions
-- How does your solution perform?
-- How can you further improve the model?
 
 1. Introduction
     - Problem: what is the definition of the problem?
@@ -17,15 +9,14 @@
 2. Describe your solution
     - What is your algorithm for solving this problem?
 
-2. Model analysis
+3. Model analysis
     - Why did you choose this metric to assess your model? What is the relation between the metrics and the problem that you would like to solve?
 
-3. Discussions
+4. Discussions
     - How does your solution perform?
         - Does the performance of your model achieve state-of-the-art?
     - How can you further improve the model?
         - What makes you think that the results can be further improved?
-
 
 ## Code
 
@@ -34,8 +25,7 @@
 3. The code should comply with [PEP 8 style guide](https://peps.python.org/pep-0008/)
     - Use [pylint](https://pylint.pycqa.org/en/latest/) or [black](https://github.com/psf/black) to help correct your code.
 
-4. You are encourage to use type hints and docstrings when possible
-
+4. You are encouraged to use type hints and docstrings when possible
 
 
 # References
